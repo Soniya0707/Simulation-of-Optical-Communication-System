@@ -1,12 +1,14 @@
 # Simulation-of-Optical-Communication-System
- Introduction to optiperformer
+
+**Intoduction of Opticperfomer**
+ 
 **AIM:**
 Download and install OptiPerformer software on your computer and run a sample file. 
 . 
 **EQUIPMENTS REQUIRED:** 
  Optisystem Software – OptiPerformer 22.0 
  
-**THEORY: **
+**THEORY:**
 Optiwave introduces OptiPerformer, a free photonic design automation tool which harnesses the full power of OptiSystem and creates specific dynamic design scenarios which can be used by students. 
 In this exercise, you will download and install OptiPerformer on your PC/laptop. Your license of OptiPerformer will be capable of loading and running OptiSystem simulations prepared for this course. 
 	Once 	you 	have 	installed 	OptiPerformer, 	you 	can 	copy 	the 	first 	file 	(named: 
@@ -22,11 +24,15 @@ In this exercise, you will download and install OptiPerformer on your PC/laptop.
 7.	Double click on the optical power meter and the BER analyzer and move the windows as necessary for clarity. Check the box next to “Show Eye Diagram” in the BER window. The optical power meter shows the power at the input to the photodiode in both watts and dBm. The BER 
 window displays the “eye diagram” and several quantities including the “Max Q Factor” and the “Min BER”. 
 8.	The simulation is set to run 5 “iterations”, with the fiber length varying from 50 to 150 km in 5 steps. The index is displayed in the upper right corner of the layout. To step through the iterations, use the forward and reverse buttons in the lower left of the window. Note the change in received power and BER display (eye diagram, Q factor and BER) with fiber length.
+   
 
-  **TABULATION: **
+TABULATION:
+
   <img width="1282" height="807" alt="image" src="https://github.com/user-attachments/assets/8575e576-1d50-4656-af99-c7e50f2bce0c" />
+  
 
   **GRAPH:**
+  
   <img width="863" height="966" alt="image" src="https://github.com/user-attachments/assets/f3fcfa9b-daac-4474-bc77-9277cde9bac3" />
 
 

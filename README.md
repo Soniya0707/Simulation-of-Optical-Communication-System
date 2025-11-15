@@ -5,6 +5,7 @@
 **AIM:**
 Download and install OptiPerformer software on your computer and run a sample file. 
 . 
+
 **EQUIPMENTS REQUIRED:** 
  Optisystem Software – OptiPerformer 22.0 
  
@@ -28,7 +29,9 @@ window displays the “eye diagram” and several quantities including the “Ma
 
 TABULATION:
 
-  <img width="1282" height="807" alt="image" src="https://github.com/user-attachments/assets/8575e576-1d50-4656-af99-c7e50f2bce0c" />
+<img width="436" height="393" alt="Screenshot 2025-11-15 232421" src="https://github.com/user-attachments/assets/9138de60-126b-452d-8fb0-ec6c054f5dd6" />
+
+ 
   
 
   **GRAPH:**

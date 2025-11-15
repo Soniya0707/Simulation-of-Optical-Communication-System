@@ -38,5 +38,9 @@ TABULATION:
   
   <img width="863" height="966" alt="image" src="https://github.com/user-attachments/assets/f3fcfa9b-daac-4474-bc77-9277cde9bac3" />
 
+  ## Result:
+  
+  Hence it is verified.
+
 
 
